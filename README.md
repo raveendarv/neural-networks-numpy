@@ -12,7 +12,7 @@ Building a nn from scratch helps in understanding how nn works in the back-end a
 
 ## Complete code is available here.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raveendarv/neural-networks-numpy/Complete-NumpyNN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raveendarv/neural-networks-numpy/blob/master/Complete-NumpyNN.ipynb)
 
 I would strongly recommend to start from p001 ([Basic-Neuron-3-inputs](https://github.com/raveendarv/neural-networks-numpy/p001-Basic-Neuron-3-inputs.py)) for better complete intuition, other files will be addes soon.
 
